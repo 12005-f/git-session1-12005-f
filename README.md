@@ -34,3 +34,6 @@ git commit -m "Add project README"
 ## GitHub Update
 
 This section was added directly on GitHub to demonstrate fetch and pull.
+## Remote Update
+
+This section was added directly on GitHub to demonstrate fetch and pull.
