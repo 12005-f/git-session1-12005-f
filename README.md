@@ -31,4 +31,6 @@ git commit -m "Add project README"
 - `notes.txt` — Project notes
 
 ## Useful Link
+## GitHub Update
 
+This section was added directly on GitHub to demonstrate fetch and pull.
